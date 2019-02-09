@@ -7,7 +7,7 @@ To compile and simulate the testbench, you need to install [GHDL](https://github
 make display
 ```
 in the source directory and switch to the waveform viewer.
-## Integrate
+## Integration
 To use it with your own projects, you will need to add the following lines to your design file(s):
 ```vhdl
 -- allows us to use BCD_TYPE
