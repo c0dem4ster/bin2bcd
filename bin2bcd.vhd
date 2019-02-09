@@ -1,8 +1,8 @@
--- name:			bin2bcd.vhd
--- author:		Theodor Fragner
--- date:			2/9/2019
--- content:		entity for converting a binary number
--- 						into a binary coded decimal
+-- name:    bin2bcd.vhd
+-- author:  Theodor Fragner
+-- date:    2/9/2019
+-- content: entity for converting a binary number
+--          into a binary coded decimal
 
 -- integer, std_logic, natural, unsigned
 library ieee;

@@ -1,7 +1,7 @@
--- name:			typedef.vhd
--- author:		Theodor Fragner
--- date:			2/9/2019
--- content:		package containing typedefinitions
+-- name:    typedef.vhd
+-- author:  Theodor Fragner
+-- date:    2/9/2019
+-- content: package containing typedefinitions
 
 library ieee;
 use ieee.std_logic_1164.all;

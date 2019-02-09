@@ -1,7 +1,7 @@
-# name:			Makefile
-# author:		Theodor Fragner
-# date:			2/9/2019
-# content:	Makefile for compiling vhdl entities using ghdl
+# name:    Makefile
+# author:  Theodor Fragner
+# date:    2/9/2019
+# content: Makefile for compiling vhdl entities using ghdl
 
 # program to compile and run vhdl simulation
 VHDL_CMD = ghdl

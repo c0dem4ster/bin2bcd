@@ -1,7 +1,7 @@
--- name:			tb_bin2bcd.vhd
--- author:		Theodor Fragner
--- date:			2/9/2019
--- content:		testbench for testing binary to bcd converter
+-- name:    tb_bin2bcd.vhd
+-- author:  Theodor Fragner
+-- date:    2/9/2019
+-- content: testbench for testing binary to bcd converter
 
 library ieee;
 use ieee.numeric_std.all;
