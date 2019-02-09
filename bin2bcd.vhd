@@ -16,8 +16,8 @@ use work.typedef.all;
 
 entity bin2bcd is
   -- set bandwidth of conversion
-  generic(bin_width:	integer := 8;
-          dec_width:	integer := 2);
+  generic(bin_width: integer := 8;
+          dec_width: integer := 2);
 
   port(RESET_n: in std_logic;
        CLK    : in std_logic;
