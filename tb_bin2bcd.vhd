@@ -3,10 +3,14 @@
 -- date:    2/9/2019
 -- content: testbench for testing binary to bcd converter
 
+-- integer, std_logic, natural, unsigned
 library ieee;
-use ieee.numeric_std.all;
 use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
 
+-- BCD_TYPE
+library work;
 use work.typedef.all;
 
 entity tb_bin2bcd is
