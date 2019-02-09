@@ -1,0 +1,15 @@
+# vsim tb_bin2bcd 
+# Start time: 09:32:41 on Feb 09,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.typedef
+# Loading work.tb_bin2bcd(bhv)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bin2bcd(rtl)
+add wave -position end  sim:/tb_bin2bcd/mBCD
+run 10ms
+# End time: 09:33:45 on Feb 09,2019, Elapsed time: 0:01:04
+# Errors: 0, Warnings: 0, Suppressed Warnings: 10

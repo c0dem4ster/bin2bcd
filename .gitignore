@@ -1,0 +1,4 @@
+*.o
+*.ghw
+*.cf
+tb_bin2bcd
